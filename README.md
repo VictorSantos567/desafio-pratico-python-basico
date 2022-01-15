@@ -17,7 +17,8 @@ Requisitos para o desafio:
 
 Para realização do desafio foi utilizando a IDE Pycharm. <img align="center" alt="Victor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original-wordmark.svg">
 
-Aplicação Run: 
-![Terminal](![terminal](https://user-images.githubusercontent.com/58118505/149624455-8702b686-19ba-48d2-98ad-9e572e6a3216.jpg) "Terminal")
+Aplicação Run:
+ 
+![Terminal](terminal.jpg "Terminal")
 
 
